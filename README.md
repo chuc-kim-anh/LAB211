@@ -4,11 +4,11 @@ This repository contains a collection of Java Object-Oriented Programming (OOP) 
 
 ---
 
-## 🚀 Projects Overview
+## Projects Overview
 
 Here is a summary of the lab exercises included in this repository:
 
-### 1. 🍎 Fruit Shop Manager (J1.L.P0023)
+### 1. Fruit Shop Manager (J1.L.P0023)
 *   **Description**: A console-based Fruit Shop management and shopping application.
 *   **Key Features**:
     *   Create and add new fruits with details (ID, Name, Price, Quantity, Origin).
@@ -16,14 +16,14 @@ Here is a summary of the lab exercises included in this repository:
     *   Interactive shopping mode with real-time stock reduction and receipt calculation.
 *   **Architecture**: MVC Pattern (Model-View-Controller).
 
-### 2. 👷 Worker Management (ManageWorker3)
+### 2. Worker Management (ManageWorker3)
 *   **Description**: An application to track and manage worker information, salaries, and salary adjustment history.
 *   **Key Features**:
     *   Add new workers with details (Code, Name, Age, Salary, Work Location).
     *   Adjust salaries (Increase/Decrease) and log changes.
     *   Display worker salary history with date and status.
 
-### 3. 🎓 Student Management (StudentManager)
+### 3. Student Management (StudentManager)
 *   **Description**: A system for managing student records, course enrollments, and status tracking.
 *   **Key Features**:
     *   Add new students and courses (Java, .Net, C/C++).
@@ -31,22 +31,22 @@ Here is a summary of the lab exercises included in this repository:
     *   Update or delete student records.
     *   Generate course reports.
 
-### 4. 📋 Task Management System (TaskManager)
+### 4. Task Management System (TaskManager)
 *   **Description**: A simple task manager to create, track, and monitor daily tasks.
 *   **Key Features**:
     *   Add tasks with dynamic fields (Task Type, Assignee, Reviewer, Date, Time).
     *   Delete tasks by ID.
     *   Display all tasks in a clean tabular console format.
 
-### 5. 🧮 Calculator & Bill (CalculatorBill)
+### 5. Calculator & Bill (CalculatorBill)
 *   **Description**: A utility console application for calculations and billing estimates.
 
-### 6. 🛒 Shopping Fruit (ShoppingFruit)
+### 6. Shopping Fruit (ShoppingFruit)
 *   **Description**: A modular implementation of the fruit shopping catalog and order management system.
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 *   **Language**: Java SE
 *   **OOP Principles**: Encapsulation, Inheritance, Polymorphism, Abstraction.
 *   **Design Pattern**: Model-View-Controller (MVC).
@@ -55,7 +55,7 @@ Here is a summary of the lab exercises included in this repository:
 
 ---
 
-## 📝 How to Run
+## How to Run
 1.  Ensure you have **Java Development Kit (JDK 8 or higher)** installed.
 2.  Clone the repository:
     ```bash
